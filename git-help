@@ -14,6 +14,10 @@ git branch 브랜치 확인
 git switch [ ] 브랜치 변경 
 git switch -c [ ] 브랜치 생성 
 
+git merge - main과 다른 branch 병합 : 통합 main 생성
+	 - main 또는 Master에서 사용
+help -- 
+git merger [Branch Name] 
 
 git status!! 
 사용
