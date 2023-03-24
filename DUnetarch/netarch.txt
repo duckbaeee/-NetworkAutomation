@@ -1,0 +1,6 @@
+동서울대 네트워크 구축 제안서
+
+네트워크 전체 설계 - 팀장(Main, Master)
+네트워크 (SW) / (R) 엔지니어 - EngineerTeam
+네트워크 디자인 - Design
+
