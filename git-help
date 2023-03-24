@@ -5,6 +5,15 @@ git pull / git add [ . ]
 git commnit -m " test " 
 git push
 
+git log 
+git checkout [ ] 이전 log로 이동 
+git checkout -b 로컬 브랜치를 생성하면서 해당 브랜치로 이동하기
+git reset [ ] 초기 커밋으로 되돌리기
+
+git branch 브랜치 확인
+git switch [ ] 브랜치 변경 
+git switch -c [ ] 브랜치 생성 
+
 
 git status!! 
 사용
